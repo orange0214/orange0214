@@ -5,13 +5,13 @@
   <a href="mailto:junchen.he@rice.edu">Email</a> • 
   <a href="https://www.linkedin.com/in/junchen-he-tim">LinkedIn</a>
 </p>
-### 🚀 About Me
+__🚀 About Me__
 
-I focus on building scalable **Backend Systems**, **Distributed Architectures**, and practical **LLM/RAG Applications**.
+I focus on building scalable **Backend Systems** and practical **LLM/RAG Applications**.
 
 ---
 
-### 💻 Selected Projects
+__💻 Selected Projects__
 
 **HackerNews Chinese** `FastAPI` `RAG` `LangChain`
 
@@ -20,7 +20,7 @@ I focus on building scalable **Backend Systems**, **Distributed Architectures**,
 
 ---
 
-### 🎓 Education
+__🎓 Education__
 
 * **M.S. in CS**, Rice University
 * **Exchange**, UC Irvine
