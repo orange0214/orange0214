@@ -1,4 +1,4 @@
-### Hi, I'm Junchen He
+### Hi, I'm Junchen He 👋
 
 __🚀 About Me__
 
