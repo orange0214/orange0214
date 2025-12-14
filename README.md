@@ -1,11 +1,4 @@
-<h1 align="center">Hi, I'm Junchen He 👋</h1>
-
-
-<p align="center">
-  <a href="mailto:junchen.he@rice.edu">Email</a> • 
-  <a href="https://www.linkedin.com/in/junchen-he-tim">LinkedIn</a>
-</p>
-
+### Hi, I'm Junchen He
 
 __🚀 About Me__
 
