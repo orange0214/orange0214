@@ -4,8 +4,6 @@ __🚀 About Me__
 
 I focus on building scalable **Backend Systems** and practical **LLM/RAG Applications**.
 
----
-
 __💻 Selected Projects__
 
 **HackerNews Chinese** `FastAPI` `RAG` `LangChain`
