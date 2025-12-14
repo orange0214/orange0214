@@ -1,44 +1,27 @@
-## Junchen He | 何俊辰
+<h1 align="center">Hi, I'm Junchen He 👋</h1>
 
-Master of Computer Science @ Rice University  
-Backend-focused Software Engineer
 
-📍 Houston, TX  
-📫 junchen.he@rice.edu | [LinkedIn](https://www.linkedin.com/in/junchen-he-tim)
+<p align="center">
+  <a href="mailto:junchen.he@rice.edu">Email</a> • 
+  <a href="https://www.linkedin.com/in/junchen-he-tim">LinkedIn</a>
+</p>
+### 🚀 About Me
 
----
-
-### 🎓 Background
-
-- **:contentReference[oaicite:0]{index=0}**, M.S. in Computer Science
-- Exchange @ **:contentReference[oaicite:1]{index=1}**  
-- B.S. in Computer Science @ **:contentReference[oaicite:2]{index=2}**
+I focus on building scalable **Backend Systems**, **Distributed Architectures**, and practical **LLM/RAG Applications**.
 
 ---
 
-### 💼 Experience Snapshot
+### 💻 Selected Projects
 
-- **:contentReference[oaicite:3]{index=3}** — Backend Engineer Intern  
-  Built a FastAPI-based recommendation service using statistical matching + embedding similarity.  
-  
-- **:contentReference[oaicite:4]{index=4}** — Full-stack Engineer Intern  
-  React frontend + Express backend, third-party integrations and authentication flows.
+**HackerNews Chinese** `FastAPI` `RAG` `LangChain`
 
----
-
-### 🚀 Selected Projects
-
-**HackerNews Chinese**  
-FastAPI · RAG · LangChain · Supabase · React  
-
-- Automated pipeline for content ingestion, translation, summarization, and LLM-based analysis.  
-- Implemented **pgvector-based RAG** for both long-article QA and global knowledge retrieval.
+* Automated content ingestion and LLM-based summarization/translation.
+* Implemented vector retrieval (Supabase) for global knowledge search.
 
 ---
 
-### 🛠 Tech Stack
+### 🎓 Education
 
-**Languages:** Java · Python · Go · JavaScript  
-**Backend:** Spring Boot · FastAPI · Redis · RabbitMQ · Elasticsearch  
-**Databases:** MySQL · PostgreSQL · MongoDB  
-**Frontend:** React
+* **M.S. in CS**, Rice University
+* **Exchange**, UC Irvine
+* **B.S. in CS**, Lanzhou University
